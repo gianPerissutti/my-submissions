@@ -1,12 +1,12 @@
 
 POST http://localhost:3003/api/blogs HTTP/1.1
 content-type: application/json
-authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlN0ZWZhMTIzMzIzIiwiaWQiOiI2NWY3OWQyZjIwN2YxYmE4ZjRiYTgxYmQiLCJpYXQiOjE3MTA3MjY0OTMsImV4cCI6MTcxMDczMDA5M30.QaQnwUZrHLa-thHS_DzFM6KKpK7sHuGl5ZlQSN5eEE4
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImdpYW4xMjMiLCJpZCI6IjY1ZjhlOTg0MGY5YzRlZDBiMDJhY2I0YiIsImlhdCI6MTcxMTIyODMyMywiZXhwIjoxNzExMjMxOTIzfQ.Ez4PRz6EUr6klvHCL_VFLVOnJRBcGwZE48kiN0ohWiQ
 
 {
   "title": "blogTest121123123",
   "author": "me",
-  "url": "www.blogtest.com",  
+  "url": "www.blogtest123123.com",  
   "likes": 64
 }
 
